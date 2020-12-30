@@ -1,0 +1,16 @@
+body{
+  padding-top: 70px;
+}
+.container .jumbotron {
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 6px;
+  background: #1eff00;
+  color: white;
+}
+.navbar{
+  background: blue;
+}
+.navbar a{
+  color: white;
+}
